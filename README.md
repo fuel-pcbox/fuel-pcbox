@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+Hey! I'm qeeg, pronouns are she/her and I'm 21.
+
+I'm currently a contributor to 86Box (albeit sporadically), and sometimes I contribute to MAME too!
+
+I'd love to work on computer or multi-system emulators with other people!
+Hit me up if you're interested!
