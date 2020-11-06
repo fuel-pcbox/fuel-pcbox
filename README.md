@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Hey! I'm qeeg, pronouns are she/her and I'm 21.
+Hey! I'm qeeg, pronouns are she/her and I'm 22.
 
 I'm currently a contributor to 86Box (albeit sporadically), and sometimes I contribute to MAME too!
 
