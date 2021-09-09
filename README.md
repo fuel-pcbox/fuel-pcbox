@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Hey! I'm qeeg, pronouns are she/her and I'm 22.
 
-I'm currently a contributor to 86Box (albeit sporadically), and sometimes I contribute to MAME too!
+I'm the maintainer of the PCBox emulator.
 
 I'd love to work on computer or multi-system emulators with other people!
 Hit me up if you're interested!
